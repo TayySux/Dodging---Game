@@ -64,9 +64,9 @@ python dodging_game.py
 📁 Project Structure
 Dodging-Game/
 │
-├── dodging_game.py
-├── README.md
-└── (no external assets required)
+- dodging_game.py
+- README.md
+- (no external assets required)
 
 
 All game logic, visuals, and UI elements are contained within a single Python file.
